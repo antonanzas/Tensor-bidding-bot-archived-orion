@@ -22,6 +22,6 @@ This project aimed to automate and optimize bidding strategies, enhancing the sp
 - **Other tools:** Tensor API, SQLite  
 
 ## License  
-This project is licensed under GPL-3.0, but distribution, modification, and commercial use require explicit permission from the author.  
+This project is licensed under GPL-3.0, but distribution and commercial use require explicit permission from the author.  
 
 📌 *For any questions, feel free to reach out!*  
